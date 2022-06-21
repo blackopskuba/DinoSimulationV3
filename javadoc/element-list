@@ -1,0 +1,9 @@
+project.pwr
+project.pwr.dino.generator
+project.pwr.dino.type
+project.pwr.reading
+project.pwr.statistics
+project.pwr.terrain.mapOfLandform
+project.pwr.terrain.positionChange
+project.pwr.terrain.putOnMap
+project.pwr.terrain.simulationLoop
