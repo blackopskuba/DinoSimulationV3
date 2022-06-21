@@ -1,0 +1,4 @@
+# Project exclude paths
+/simulation_project_pwr/.gradle/
+/simulation_project_pwr/build/
+/simulation_project_pwr/build/classes/java/main/
